@@ -1,0 +1,29 @@
+# API Keys
+key.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Vector database (can be rebuilt)
+vector_db/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
